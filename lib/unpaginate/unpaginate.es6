@@ -1,6 +1,11 @@
 'use strict';
 
-const unpaginate = {};
+import {Observable} from 'rx';
 
+const justX = Observable.of('x');
 
-export default unpaginate;
+// ......
+
+export {
+  justX
+};
