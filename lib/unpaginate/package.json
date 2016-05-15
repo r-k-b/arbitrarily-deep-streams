@@ -1,0 +1,11 @@
+{
+  "name": "@r-k-b/unpaginate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unpaginate.es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert K. Bell <robert.k.bell@gmail.com> (https://github.com/r-k-b)",
+  "license": "ISC"
+}
