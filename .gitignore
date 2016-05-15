@@ -1,0 +1,12 @@
+.idea/
+node_modules
+
+npm-debug.log
+
+# WebStorm
+*.iml
+
+# generated files
+
+*.min.js
+*.bundle.js
