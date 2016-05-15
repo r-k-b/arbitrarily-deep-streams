@@ -10,16 +10,18 @@
   },
   "author": "Robert K. Bell",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "babel": "6.5.2",
     "babel-cli": "6.8.0",
     "babel-preset-es2015": "6.6.0",
     "babel-preset-stage-0": "6.5.0",
     "blue-tape": "0.2.0",
+    "tape": "4.5.1"
+  },
+  "dependencies": {
     "bunyan": "1.8.1",
     "ramda": "0.21.0",
     "rx": "4.1.0",
-    "tape": "4.5.1",
     "unpaginate": "./lib/unpaginate"
   }
 }
